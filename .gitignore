@@ -1,0 +1,5 @@
+backtest.py
+BUILD_NOTES.md
+__pycache__/
+*.pyc
+out/
